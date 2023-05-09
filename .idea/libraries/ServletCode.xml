@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="ServletCode">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$PROJECT_DIR$/../../tomcat/apache-tomcat-8.5.81/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/commons-dbcp2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/commons-pool2-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/mysql-connector-java-8.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysqljar/jar/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../tomcat/apache-tomcat-8.5.81/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
